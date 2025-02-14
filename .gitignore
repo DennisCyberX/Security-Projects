@@ -1,0 +1,7 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+venv/
+*.pyc
+
+# Ignore keylogger logs
+keylog.txt
